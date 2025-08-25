@@ -1,2 +1,2 @@
-# sigma
-this is demo of sigma lecture in git hub
+# Sigma
+this is demo of sigma lecture in git hub.
